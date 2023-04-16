@@ -1,0 +1,7 @@
+{
+  "name": "TailorManagementApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
